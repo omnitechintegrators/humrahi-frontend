@@ -39,7 +39,7 @@ const MissionSection = () => {
           <div className="flex items-center justify-center gap-3 mb-4">
             <div className="h-[1.5px] w-10 bg-[#D9272B]"></div>
             <span className="italic text-[#D9272B] text-xl font-medium" style={{ fontFamily: 'serif' }}>
-              How We Make a Difference
+              How We Make a Difference in
             </span>
             <div className="h-[1.5px] w-10 bg-[#F5A623]"></div>
           </div>
